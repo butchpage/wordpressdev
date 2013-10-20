@@ -1,3 +1,3 @@
-# This is a blank starter WordPress development repo. I use it for developing themes or plugins.
+# WordPress Development Repo.
 
-It uses the WordPress git repo that is synced every 15 minutes as a submodule.
+A simple empty WordPress repo that uses the official WordPress repo as a submodule. I use this to develop themes and plugins.
